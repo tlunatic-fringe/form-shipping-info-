@@ -1,0 +1,12 @@
+body {
+    font-family: verdana;
+    background-image: url(Images/bg.jpg);
+    background-size: strech;
+    margin-left: 20px;
+
+}
+
+div {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
